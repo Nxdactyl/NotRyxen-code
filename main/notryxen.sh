@@ -210,7 +210,7 @@ show_menu() {
     clear
     print_header_rule
     echo -e "${RED}           🚀 JISHNU HOSTING MANAGER            ${NC}"
-    echo -e "${RED}              made by nobita , jishnu           ${NC}"
+    echo -e "${RED}              made by NotRyxen , NyroxDev           ${NC}"
     print_header_rule
 
     big_header "MAIN MENU"
