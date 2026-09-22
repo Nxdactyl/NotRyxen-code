@@ -119,7 +119,7 @@ system_info() {
 show_menu() {
     clear
     echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-    echo -e "${CYAN}           🚀 NOBITA HOSTING MANAGER            ${NC}"
+    echo -e "${CYAN}           🚀 NotRyxen HOSTING MANAGER            ${NC}"
     echo -e "${CYAN}                 Control Panel                  ${NC}"
     echo -e "${BLUE}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
     echo -e ""
